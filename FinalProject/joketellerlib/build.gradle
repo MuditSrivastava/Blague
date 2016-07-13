@@ -1,0 +1,8 @@
+apply plugin: 'java'
+
+dependencies {
+    compile fileTree(dir: 'libs', include: ['*.jar'])
+    //Added to fix : Error converting bytecode to dex
+    sourceCompatibility = 1.7
+    targetCompatibility = 1.7
+}

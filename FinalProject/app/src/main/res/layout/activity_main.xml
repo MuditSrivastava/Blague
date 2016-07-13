@@ -1,0 +1,13 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context="com.udacity.gradle.builditbigger.MainActivity"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent">
+
+<fragment  android:id="@+id/fragment"
+    android:name="com.udacity.gradle.builditbigger.MainActivityFragment"
+    tools:layout="@layout/fragment_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" />
+</LinearLayout>
