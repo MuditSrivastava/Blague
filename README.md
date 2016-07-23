@@ -9,6 +9,8 @@ Contains Google Cloud Endpoints module to supply joke from java library
 
 Available in Free and Paid Flavors
 
+<img width="30%" src="https://github.com/MuditSri-2908/BuildItBigger/blob/master/FinalProject/images/builditbigger.png"/>
+
 Created as a part of [Udacity Android Developer Nanodegree](https://www.udacity.com/course/android-developer-nanodegree-by-google--nd801)
 
 ## External Library Used
