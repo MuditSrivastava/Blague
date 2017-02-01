@@ -1,13 +1,13 @@
 #<img width="10%" src="https://github.com/MuditSri-2908/BuildItBigger/blob/master/FinalProject/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"/>   BuildItBigger
 Android App that tell jokes
 
-Uses Gradle to build app
+* Uses Gradle to build app
 
-Contains custom java library for supplying jokes
+* Contains custom java library for supplying jokes
 
-Contains Google Cloud Endpoints module to supply joke from java library 
+* Contains Google Cloud Endpoints module to supply joke from java library 
 
-Available in Free and Paid Flavors
+* Available in Free and Paid Flavors
 
 <img src="https://github.com/MuditSri-2908/BuildItBigger/blob/master/FinalProject/images/builditbigger.png"/>
 
