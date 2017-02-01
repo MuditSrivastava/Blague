@@ -1,4 +1,4 @@
-# BuildItBigger
+#<img width="10%" src="https://github.com/MuditSri-2908/BuildItBigger/blob/master/FinalProject/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"/>   BuildItBigger
 Android App that tell jokes
 
 Uses Gradle to build app
@@ -23,6 +23,11 @@ Created as a part of [Udacity Android Developer Nanodegree](https://www.udacity.
 - Configuring a multi-project build to compile libraries and app
 - Using the Gradle App Engine plugin to deploy a backend
 - Configuring an integration test suite that runs against the local App Engine development server
+
+ ## Screenshots
+<img width="30%" src="https://github.com/MuditSri-2908/BuildItBigger/blob/master/Screenshots/device-2016-09-06-010002.png"/>
+<img width="30%" src="https://github.com/MuditSri-2908/BuildItBigger/blob/master/Screenshots/device-2016-09-06-003759.png"/>
+<img width="30%" src="https://github.com/MuditSri-2908/BuildItBigger/blob/master/Screenshots/device-2016-09-06-003653.png"/>
 
 ## General Project Guideline
 App conforms to common standards found in the [Android Nanodegree General Project Guidelines](http://udacity.github.io/android-nanodegree-guidelines/core.html)
