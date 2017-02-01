@@ -24,7 +24,7 @@ Created as a part of [Udacity Android Developer Nanodegree](https://www.udacity.
 - Using the Gradle App Engine plugin to deploy a backend
 - Configuring an integration test suite that runs against the local App Engine development server
 
- ## Screenshots
+## Screenshots
 <img width="30%" src="https://github.com/MuditSri-2908/BuildItBigger/blob/master/Screenshots/device-2016-09-06-010002.png"/>
 <img width="30%" src="https://github.com/MuditSri-2908/BuildItBigger/blob/master/Screenshots/device-2016-09-06-003759.png"/>
 <img width="30%" src="https://github.com/MuditSri-2908/BuildItBigger/blob/master/Screenshots/device-2016-09-06-003653.png"/>
