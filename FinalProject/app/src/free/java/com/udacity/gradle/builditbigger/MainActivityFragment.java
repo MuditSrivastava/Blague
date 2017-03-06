@@ -57,7 +57,7 @@ public class MainActivityFragment extends Fragment {
         mInterstitialAd.setAdListener(new AdListener() {
             @Override
             public void onAdClosed() {
-                Log.v(TAG,"Closing InterstitialAd");
+                Log.v(TAG,getResources().getString(R.string.tag_closeAd));
                 requestNewInterstitial();
                 retrieveJoke();
             }
@@ -71,10 +71,10 @@ public class MainActivityFragment extends Fragment {
             @Override
             public void onClick(View v) {
                 if (mInterstitialAd.isLoaded()) {
-                    Log.v(TAG,"Showing InterstitialAd");
+                    Log.v(TAG,getResources().getString(R.string.tag_showAd));
                     mInterstitialAd.show();
                 } else {
-                    Log.v(TAG,"InterstitialAd loading not finished");
+                    Log.v(TAG,getResources().getString(R.string.tag_notFinishedLoading));
                     retrieveJoke();
                 }
             }
@@ -83,7 +83,7 @@ public class MainActivityFragment extends Fragment {
     }
 
     private void retrieveJoke() {
-        Log.v(TAG,"Fetching Joke");
+        Log.v(TAG,getResources().getString(R.string.Fetching_Joke));
         //mProgressBar.setVisibility(View.VISIBLE);
         progressBar.setVisibility(View.VISIBLE);
 
@@ -100,7 +100,7 @@ public class MainActivityFragment extends Fragment {
     }
 
     private void requestNewInterstitial() {
-        Log.v(TAG,"Requesting new InterstitialAd");
+        Log.v(TAG,getResources().getString(R.string.tag_requestAd));
         AdRequest adRequest = new AdRequest.Builder()
                 .addTestDevice(AdRequest.DEVICE_ID_EMULATOR)
                 .build();
