@@ -6,9 +6,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.view.MenuItem;
 import android.widget.TextView;
 import android.support.v7.widget.CardView;
-/**
- * Created by DELL on 7/24/2016.
- */
+
 public class JokeViewer extends AppCompatActivity {
     public static final String JOKE_EXTRA = "joke_extra";
 
@@ -43,5 +41,5 @@ public class JokeViewer extends AppCompatActivity {
         }
         return super.onOptionsItemSelected(item);
     }
-    }
+}
 
