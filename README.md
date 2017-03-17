@@ -1,4 +1,4 @@
-#<img width="10%" src="https://github.com/MuditSri-2908/BuildItBigger/blob/master/FinalProject/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"/>   BuildItBigger
+# <img width="10%" src="https://github.com/MuditSri-2908/BuildItBigger/blob/master/FinalProject/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"/>   BuildItBigger
 Android App that tell jokes
 
 * Uses Gradle to build app
