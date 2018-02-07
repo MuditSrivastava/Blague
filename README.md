@@ -16,7 +16,7 @@ Created as a part of [Udacity Android Developer Nanodegree](https://www.udacity.
 ## External Library Used
 [Android Spinkit](https://github.com/ybq/Android-SpinKit)
 
-## Concepts Learned
+## Concepts Implemented
 - Adding Free and Paid flavors to an app and setting up build to share between them
 - Factoring reusable functionality into a Java library
 - Factoring reusable Android functionality into an Android library
